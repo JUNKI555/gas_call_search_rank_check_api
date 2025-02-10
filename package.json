@@ -1,0 +1,22 @@
+{
+  "name": "gas_call_search_rank_check_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUNKI555/gas_call_search_rank_check_api.git"
+  },
+  "author": "JUNKI555",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/JUNKI555/gas_call_search_rank_check_api/issues"
+  },
+  "homepage": "https://github.com/JUNKI555/gas_call_search_rank_check_api#readme",
+  "dependencies": {
+    "@google/clasp": "^2.5.0"
+  }
+}
